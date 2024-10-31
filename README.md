@@ -9,7 +9,7 @@ Softeer HSAT 정기 역량 진단 합격을 목표로 합니다.
   - [실전 알고리즘 강좌 블로그](https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
   - [유튜브](https://www.youtube.com/c/baaarkingdog)
   - [문제집 깃헙 리포지토리](https://github.com/encrypted-def/basic-algo-lecture)
-  - [문제집 링크](workbook.md)
+  - [문제집 링크](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md)
   - 진도 : `0x04강`부터 하루에 한 유형씩 익히기
   - 모임 시간 : 매주 목요일 오후 10시  
     - 1시간 2문제 풀기
@@ -30,7 +30,7 @@ Softeer HSAT 정기 역량 진단 합격을 목표로 합니다.
 ---------------------------
 - 하루에 한 유형에 대한 개념 익히기
   
-- 유형에 따라 [문제집 링크](workbook.md)의 `연습 + 기본 + 응용 문제` 풀이
+- 유형에 따라 [문제집 링크](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md)의 `연습 + 기본 + 응용 문제` 풀이
 
 - 모임 시간에 선별 문제 풀이
   - 푼 사람 : 해결 방법 공유 
