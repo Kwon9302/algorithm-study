@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/JeongHyunBaek/04강 - 연결리스트" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JeongHyunBaek/05강 - 스택" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JeongHyunBaek/06강 - 큐" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JeongHyunBaek/07강 - 덱" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JeongHyunBaek/08강 - 스택의 활용" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JeongHyunBaek/09강 - BFS" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
